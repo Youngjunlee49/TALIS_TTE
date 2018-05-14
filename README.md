@@ -1,2 +1,4 @@
 # TALIS_TTE
-Data and STATA Do files for analyses
+TALIS 2013 Data (zip file) and STATA Do files for analyses are included.
+
+
